@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.09cf3527.css",
+    "main.js": "/static/js/main.7081ebc9.js",
+    "static/media/Mohammed-saqlain.pdf": "/static/media/Mohammed-saqlain.pdf",
+    "static/media/photo_6323057716985184102_y.jpg":"static/media/photo_6323057716985184102_y.jpg",
+    "static/media/about.jpg": "/static/media/about.25037666cca34f8f569a.jpg",
+    "static/media/work2.jpg": "/static/media/work2.e52a0c2981a6c11ba468.jpg",
+    "static/media/work4.jpg": "/static/media/work4.aee985961b648f4df1f2.jpg",
+    "static/media/work5.jpg": "/static/media/work5.094ec4a2224db8908873.jpg",
+    "static/media/work1.jpg": "/static/media/work1.321b4ae3bf404acdfdc6.jpg",
+    "static/media/work3.jpg": "/static/media/work3.135e9065694bc13dc31d.jpg",
+    "static/media/testimonial1.png": "/static/media/testimonial1.89079c1d25f2c94ceb89.png",
+    "index.html": "/index.html",
+    "main.09cf3527.css.map": "/static/css/main.09cf3527.css.map",
+    "main.7081ebc9.js.map": "/static/js/main.7081ebc9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.09cf3527.css",
+    "static/js/main.7081ebc9.js"
+  ]
+}
